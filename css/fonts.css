@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   src: local("Semibold"), 
-       url("/stilst/Display Semibold.woff2") format("woff2"), 
+       url("/fonts/Display Semibold.woff2") format("woff2"), 
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-style: normal;
   font-weight: 400;
   src: local("Gilroy"), 
-       url("/stilst/Gilroy-ExtraBold.woff2") format("woff2"), 
+       url("/fonts/Gilroy-ExtraBold.woff2") format("woff2"), 
 }
 
 
